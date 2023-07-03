@@ -1,0 +1,4 @@
+body {
+    background-color: pink;
+    font-family: 'Nanum Pen Script', cursive; /* ChatGPT recommends it on body tag, not the '*' selector, due to possibility of unintended consequences*/
+}
